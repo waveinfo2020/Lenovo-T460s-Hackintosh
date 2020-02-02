@@ -9,4 +9,4 @@
                VoodooInput 1.0.2。  
                VoodooPS2Controller 2.1.0。 
                WhateverGreen 1.3.6。
-# Only Physical mouse buttons not working ，all things are good。
+# Only Physical mouse buttons of touchpad not working ，all things are good。
