@@ -278,20 +278,20 @@
 			<true/>
 			<key>Legacy</key>
 			<false/>
+			<key>Linux</key>
+			<false/>
 			<key>Tool</key>
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
-		<key>Theme</key>
-		<string>Lenovo</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
 		<key>Inject</key>
 		<dict>
 			<key>Intel</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
 	<key>KernelAndKextPatches</key>
@@ -549,17 +549,25 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
+		<key>MLB</key>
+		<string>C02942300J9JH4RCB</string>
+		<key>ROM</key>
+		<data>r40fH/YJ</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>05/25/2019</string>
+		<string>01/05/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP133.88Z.F000.B00.1905251314</string>
+		<string>MBP152.88Z.F000.B00.2001052154</string>
+		<key>Board-ID</key>
+		<string>Mac-827FB448E656EC26</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02910300CDJH4R8C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -571,11 +579,11 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>257.0.0.0.0</string>
+		<string>1037.80.41.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE13F</string>
+		<string>0xFC0FE137</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -584,12 +592,14 @@
 		<string>Apple Inc.</string>
 		<key>Mobile</key>
 		<true/>
-		<key>NoRomInfo</key>
-		<true/>
 		<key>PlatformFeature</key>
-		<string>0x1A</string>
+		<string>0x02</string>
 		<key>ProductName</key>
-		<string>MacBookPro13,3</string>
+		<string>MacBookPro15,2</string>
+		<key>SerialNumber</key>
+		<string>C02YDTY0JHCC</string>
+		<key>SmUUID</key>
+		<string>6857E153-5E51-4CBF-9F04-DD86221FF609</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
