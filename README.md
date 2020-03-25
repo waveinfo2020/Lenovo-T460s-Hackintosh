@@ -6,7 +6,7 @@
                CPUFriend 1.2.0。   
                Lilu 1.4.3。  
                USBInjectAll 0.7.3。  
-               VoodooInput 1.0.2。  
+               VoodooInput 1.0.4。  
                VoodooPS2Controller 2.1.3。 
                WhateverGreen 1.3.8。
 # Only Physical mouse buttons of touchpad not working ，all things are good。
