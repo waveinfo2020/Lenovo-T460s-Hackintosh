@@ -1,4 +1,4 @@
-# Lenovo-T460s-Hackintosh  本项目是关于本人自用LENOVO T460s EFI 最新版本及驱动的更新，测试环境：MacOS Catalina 10.15.4（19E266）。
+# Lenovo-T460s-Hackintosh  本项目是关于本人自用LENOVO T460s EFI 无线网卡为Dw1820A，最新版本及驱动的更新，测试环境：MacOS Catalina 10.15.4（19E266）。
 # New Clover for T460s。
 # Clover version:5107 已更新到最新5107版本。
 # New drivers:   
