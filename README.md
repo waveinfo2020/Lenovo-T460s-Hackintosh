@@ -2,7 +2,7 @@
 # New Clover for T460s。
 # Clover version:5118 已更新到最新5118版本。
 # New drivers:   
-               AppleALC 1.4.8。  
+               AppleALC 1.5.0。  
                CPUFriend 1.2.0。   
                Lilu 1.4.5。  
                USBInjectAll 0.7.5。  
